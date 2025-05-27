@@ -1,3 +1,6 @@
+#!/bin/bash
+
+# Create the .streamlit directory and config file
 mkdir -p ~/.streamlit/
 
 echo "\
@@ -6,3 +9,6 @@ headless = true\n\
 port = $PORT\n\
 enableCORS = false\n\
 " > ~/.streamlit/config.toml
+
+# Run the Streamlit app
+streamlit run app.py
