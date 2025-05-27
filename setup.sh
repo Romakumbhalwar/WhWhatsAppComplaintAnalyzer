@@ -1,14 +1,15 @@
 #!/bin/bash
 
-# Create the .streamlit directory and config file
+# Create the .streamlit directory
 mkdir -p ~/.streamlit/
 
-echo "\
-[server]\n\
-headless = true\n\
-port = $PORT\n\
-enableCORS = false\n\
-" > ~/.streamlit/config.toml
+# Create the config.toml file with proper newlines
+cat <<EOF > ~/.streamlit/config.toml
+[server]
+headless = true
+port = $PORT
+enableCORS = false
+EOF
 
-# Run the Streamlit app
+# Start the Streamlit app (update filename if needed)
 streamlit run app.py
