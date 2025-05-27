@@ -43,4 +43,4 @@ with tab2:
 
 with tab3:
     st.subheader("Raw Data Preview")
-    st.dataframe(df[['Complaint_Text', 'Category']].head(100))
+    st.dataframe(df[['Complaint_Text', 'Category']])
