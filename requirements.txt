@@ -7,3 +7,4 @@ seaborn
 wordcloud
 joblib
 numpy
+num2words
