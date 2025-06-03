@@ -8,7 +8,7 @@ st.set_page_config(page_title="WhatsApp Complaint Analyzer", layout="wide")
 st.title("\U0001F4F1 WhatsApp Complaint Analyzer")
 
 # Load data with correct encoding (adjust encoding if needed)
-df = pd.read_csv("data/WhatsApp_Complaint_Analyzer_data.csv", encoding='ISO-8859-1')
+df = pd.read_csv("data/WhatsApp_Complaint_Analyzer_Data.csv", encoding='ISO-8859-1')
 
 # Debug print to verify columns (remove or comment out later)
 print(df.columns)
