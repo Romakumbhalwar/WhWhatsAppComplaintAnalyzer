@@ -1,23 +1,23 @@
 Sr. no.,Message_ID,Customer_Name,Phone_Number,Date,Complaint_Text,Category
 1,68113400,Hunter Townsend,474.112.4903x521,30-04-2025,I was charged more than what was mentioned.,Overcharged
-2,837217,Edwin Wilkins,(067)883-1712,30-04-2025,The item arrived broken. This is unacceptable!,Damaged Product
+2,837217,Edwin Wilkins,(067)883-1712,30-04-2025,Got it after the expected date,Late Delivery
 3,c7ecfe71,Mrs. Samantha Watson,+1-199-410-1372x1510,30-04-2025,Your delivery boy was very rude.,Rude Staff
 4,92ea1324,Nathaniel Crawford,(625)324-4720x9993,30-04-2025,I�ve been texting for help and no one responds.,No Response
 5,e1fdc6d1,Amy Ramirez,(638)380-6578,30-04-2025,I placed the order 2 days ago and it's still not here!,Late Delivery
 6,809cd839,Devin Johnson,+1-304-078-5932x133,30-04-2025,I received the wrong product. Please check your dispatch.,Wrong Item
 7,ead18464,Pamela Gould,001-652-239-5590,30-04-2025,The item arrived broken. This is unacceptable!,Damaged Product
-8,2460d0d2,Chelsea Travis,842.701.0393x0870,30-04-2025,I was charged more than what was mentioned.,Overcharged
+8,2460d0d2,Chelsea Travis,842.701.0393x0870,30-04-2025,Got it after the expected date,Late Delivery
 9,ce7334f2,Mitchell Sellers,002-921-8515x69154,30-04-2025,The item arrived broken. This is unacceptable!,Damaged Product
 10,bb7b6c05,Rebecca Yu,+1-528-953-9264x4220,30-04-2025,I was charged more than what was mentioned.,Overcharged
 11,c55523ed,Amanda Guzman,+1-391-725-1355x215,30-04-2025,I�ve been texting for help and no one responds.,No Response
 12,3fe1e8f3,Hayley Buchanan,001-006-762-6765x8617,30-04-2025,Your delivery boy was very rude.,Rude Staff
 13,39bfca38,Benjamin Singleton,054-115-2621x8159,30-04-2025,I was charged more than what was mentioned.,Overcharged
-14,07ef2ba8,Matthew Lawson,(201)533-6884x44310,30-04-2025,I received the wrong product. Please check your dispatch.,Wrong Item
+14,07ef2ba8,Matthew Lawson,(201)533-6884x44310,30-04-2025,Got it after the expected date,Late Delivery
 15,7daec949,Isaac Patterson,973-103-2417x1467,30-04-2025,I�ve been texting for help and no one responds.,No Response
 16,1754bf08,Jasmine Watson,(527)047-7434x9021,30-04-2025,Your delivery boy was very rude.,Rude Staff
 17,8a9c66f7,Peter Perez,6868793741,30-04-2025,The item arrived broken. This is unacceptable!,Damaged Product
 18,08e3f771,Stephanie Mcbride,+1-921-722-3320x61632,30-04-2025,Your delivery boy was very rude.,Rude Staff
-19,ba236c22,Andrea Hughes,(854)870-9986x1622,30-04-2025,Your delivery boy was very rude.,Rude Staff
+19,ba236c22,Andrea Hughes,(854)870-9986x1622,30-04-2025,Got it after the expected date,Late Delivery
 20,f6ff3521,Tammy Hart,485-646-7997,30-04-2025,I placed the order 2 days ago and it's still not here!,Late Delivery
 21,24d38751,Melanie Morales,(530)745-0544x4713,30-04-2025,I was charged more than what was mentioned.,Overcharged
 22,716fb276,Erica Daniel,+1-137-367-8508x214,30-04-2025,Your delivery boy was very rude.,Rude Staff
@@ -99,15 +99,15 @@ Sr. no.,Message_ID,Customer_Name,Phone_Number,Date,Complaint_Text,Category
 98,17172654,Johnny Peterson,757-051-2046x1872,30-04-2025,I placed the order two days ago and it's still not here!,Late Delivery
 99,d13757e1,Adam Villegas,001-367-303-7183x764,30-04-2025,Your delivery boy was very rude.,Rude Staff
 100,0accb23c,Krista Martinez,435.031.3650x2491,30-04-2025,I was charged more than what was mentioned.,Overcharged
-101,f80590f0,Richard Alvarez,+1-251-327-1950x052,30-04-2025,The item arrived broken. This is unacceptable!,Damaged Product
+101,f80590f0,Richard Alvarez,+1-251-327-1950x052,30-04-2025,There was a delay in delivery,Late Delivery
 102,7ce34563,William Kramer,001-573-065-2407x78487,30-04-2025,I was charged more than what was mentioned.,Overcharged
 103,59008d65,John Dillon,+1-821-827-4485x708,30-04-2025,I was charged more than what was mentioned.,Overcharged
-104,04cad30a,Helen Oliver,186-387-8294x56511,30-04-2025,The item arrived broken. This is unacceptable!,Damaged Product
+104,04cad30a,Helen Oliver,186-387-8294x56511,30-04-2025,There was a delay in delivery,Late Delivery
 105,d5cf3b4c,Cassandra Johnson,731-096-7899,30-04-2025,Your delivery boy was very rude.,Rude Staff
 106,9b1fc6d1,Alexis Mccall,+1-717-058-6509x4801,30-04-2025,I�ve been texting for help and no one responds.,No Response
 107,f5e90352,Ashley Hall,(338)392-8861x9576,30-04-2025,The item arrived broken. This is unacceptable!,Damaged Product
 108,8cca8963,George Moore,+1-755-855-6659x398,30-04-2025,The item arrived broken. This is unacceptable!,Damaged Product
-109,ed17f6e9,Heather Chavez,(004)908-2404x3350,30-04-2025,I received the wrong product. Please check your dispatch.,Wrong Item
+109,ed17f6e9,Heather Chavez,(004)908-2404x3350,30-04-2025,Delivery was not on time,Late Delivery
 110,8e6b3085,Laura Davis,522.459.3344x196,30-04-2025,I received the wrong product. Please check your dispatch.,Wrong Item
 111,13c37b5d,Rebecca Thompson,001-919-409-6105x566,30-04-2025,I received the wrong product. Please check your dispatch.,Wrong Item
 112,bf67de42,Lindsey Smith,001-604-805-8925x83206,30-04-2025,I�ve been texting for help and no one responds.,No Response
@@ -116,13 +116,13 @@ Sr. no.,Message_ID,Customer_Name,Phone_Number,Date,Complaint_Text,Category
 115,5d822e3a,Frank Wheeler,4259792703,30-04-2025,The item arrived broken. This is unacceptable!,Damaged Product
 116,c1fad753,Angelica Singh,924.051.4770,30-04-2025,I�ve been texting for help and no one responds.,No Response
 117,363d75f1,Joseph Green,920.698.0420x4394,30-04-2025,I received the wrong product. Please check your dispatch.,Wrong Item
-118,0222305d,Matthew Alvarado,+1-510-463-6815x79812,30-04-2025,I�ve been texting for help and no one responds.,No Response
+118,0222305d,Matthew Alvarado,+1-510-463-6815x79812,30-04-2025,Delivery was not on time,Late Delivery
 119,8f8937fa,Alison Wright,457.620.5554x38404,30-04-2025,I received the wrong product. Please check your dispatch.,Wrong Item
 120,fd88565a,Justin Ramirez,(562)168-9363,30-04-2025,I�ve been texting for help and no one responds.,No Response
 121,4ff85111,Erin Daniels,298.324.8262,30-04-2025,I placed the order two days ago and it's still not here!,Late Delivery
 122,2875d40a,Justin Fry,252-056-6474,30-04-2025,I received the wrong product. Please check your dispatch.,Wrong Item
 123,21acfdb5,Phillip Salazar,999-393-3051x728,30-04-2025,I received the wrong product. Please check your dispatch.,Wrong Item
-124,5fbbcda5,James Wells,(330)604-6333,30-04-2025,The item arrived broken. This is unacceptable!,Damaged Product
+124,5fbbcda5,James Wells,(330)604-6333,30-04-2025,Delivery was not on time,Late Delivery
 125,fc5217cc,Luis Watts,366.096.5699x988,30-04-2025,Your delivery boy was very rude.,Rude Staff
 126,09dbebb5,Jocelyn Wilcox,3886086803,30-04-2025,Your delivery boy was very rude.,Rude Staff
 127,4df742ae,Donna Jackson,908-277-1812x9826,30-04-2025,I�ve been texting for help and no one responds.,No Response
@@ -151,14 +151,14 @@ Sr. no.,Message_ID,Customer_Name,Phone_Number,Date,Complaint_Text,Category
 150,d7e4527a,Sara Moore,+1-220-102-7621x26796,30-04-2025,Your delivery boy was very rude.,Rude Staff
 151,6c936f69,Joanna Kelly,(690)973-8468,30-04-2025,The item arrived broken. This is unacceptable!,Damaged Product
 152,09b185d6,Michele Wilson,128.478.1891x3718,30-04-2025,I�ve been texting for help and no one responds.,No Response
-153,e7515d4b,Richard Harrison,795.654.4209x49407,30-04-2025,I received the wrong product. Please check your dispatch.,Wrong Item
+153,e7515d4b,Richard Harrison,795.654.4209x49407,30-04-2025,Delivery was not on time,Late Delivery
 154,a8049463,Rhonda Weber MD,281-442-9444,30-04-2025,The item arrived broken. This is unacceptable!,Damaged Product
 155,2cb37e23,Nancy Hopkins,(243)728-0512x927,30-04-2025,I�ve been texting for help and no one responds.,No Response
 156,a9217ddc,Mark Clark,001-504-102-7674x7836,30-04-2025,I received the wrong product. Please check your dispatch.,Wrong Item
 157,87cb0e2a,Alexandra Ho,658.018.5694x544,30-04-2025,I received the wrong product. Please check your dispatch.,Wrong Item
-158,6422a73e,Michael Allen,+1-938-525-8001x06181,30-04-2025,Your delivery boy was very rude.,Rude Staff
+158,6422a73e,Michael Allen,+1-938-525-8001x06181,30-04-2025,Delivery was not on time,Late Delivery
 159,4886274c,Andrew Harvey,9391119269,30-04-2025,Your delivery boy was very rude.,Rude Staff
-160,2f2bdc13,John Mayer,+1-746-542-1406x6504,30-04-2025,Your delivery boy was very rude.,Rude Staff
+160,2f2bdc13,John Mayer,+1-746-542-1406x6504,30-04-2025,Delivery was not on time,Late Delivery
 161,7de17a85,Christina Long,+1-712-863-9174x1011,30-04-2025,I�ve been texting for help and no one responds.,No Response
 162,7225539d,Jonathan Delgado,642569087,30-04-2025,I was charged more than what was mentioned.,Overcharged
 163,ba4ef72f,Rachel Fernandez,6719855460,30-04-2025,The item arrived broken. This is unacceptable!,Damaged Product
@@ -195,12 +195,12 @@ Sr. no.,Message_ID,Customer_Name,Phone_Number,Date,Complaint_Text,Category
 194,6b65450b,Tina Williams,818-321-9285x5445,30-04-2025,Your delivery boy was very rude.,Rude Staff
 195,d2c4c286,Chad Campbell,001-765-213-2833x89888,30-04-2025,The item arrived broken. This is unacceptable!,Damaged Product
 196,138ef8cc,Carlos Smith,(452)798-5240x132,30-04-2025,Your delivery boy was very rude.,Rude Staff
-197,20168e6d,William Coleman,001-110-760-3108x90714,30-04-2025,I�ve been texting for help and no one responds.,No Response
+197,20168e6d,William Coleman,001-110-760-3108x90714,30-04-2025,Got it after the expected date,Late Delivery
 198,02a13629,Rachel Mora,932.501.2495,30-04-2025,I�ve been texting for help and no one responds.,No Response
 199,c7e2a618,Dana Hudson,908-334-2801,30-04-2025,I placed the order two days ago and it's still not here!,Late Delivery
 200,b52f80c9,Michael Lopez,+1-125-663-8361x51718,30-04-2025,I�ve been texting for help and no one responds.,No Response
 201,b4693ec4,Nathan Miller,164.794.7386x4631,30-04-2025,I was charged more than what was mentioned.,Overcharged
-202,2de66d5b,Michael Powers,(781)126-6912x1535,30-04-2025,I�ve been texting for help and no one responds.,No Response
+202,2de66d5b,Michael Powers,(781)126-6912x1535,30-04-2025,late delivery,Late Delivery
 203,677f7c73,Ryan Hardy,994-657-9678x427,30-04-2025,I was charged more than what was mentioned.,Overcharged
 204,7f4d55b9,Tommy Johnson,001-017-026-9524x9911,30-04-2025,I�ve been texting for help and no one responds.,No Response
 205,774d34f5,Matthew Henry,858-800-6167x567,30-04-2025,I was charged more than what was mentioned.,Overcharged
@@ -211,7 +211,7 @@ Sr. no.,Message_ID,Customer_Name,Phone_Number,Date,Complaint_Text,Category
 210,34b6685d,Jonathan Hubbard,294-563-7183x44049,30-04-2025,I placed the order two days ago and it's still not here!,Late Delivery
 211,be2de8c8,Michelle Lane,001-541-987-6351,30-04-2025,I received the wrong product. Please check your dispatch.,Wrong Item
 212,cddb3f9e,Matthew Edwards,(649)878-2082x97374,30-04-2025,Your delivery boy was very rude.,Rude Staff
-213,da4f706b,Jessica Knight,+1-083-572-3246x6513,30-04-2025,I was charged more than what was mentioned.,Overcharged
+213,da4f706b,Jessica Knight,+1-083-572-3246x6513,30-04-2025,2 days late delivery,Late Delivery
 214,a5630d3a,Michael Young,123.034.7786,30-04-2025,I was charged more than what was mentioned.,Overcharged
 215,33b5a667,Chad Green,820-700-1594x165,30-04-2025,Your delivery boy was very rude.,Rude Staff
 216,f17312f4,Sarah Young,001-818-984-7139,30-04-2025,I placed the order two days ago and it's still not here!,Late Delivery
@@ -221,7 +221,7 @@ Sr. no.,Message_ID,Customer_Name,Phone_Number,Date,Complaint_Text,Category
 220,5132fe68,Pamela Sullivan,4177656124,30-04-2025,Your delivery boy was very rude.,Rude Staff
 221,9a244525,Kimberly Murphy,001-002-720-6345x911,30-04-2025,I received the wrong product. Please check your dispatch.,Wrong Item
 222,f83bf029,Marie Anderson,+1-657-724-2954x316,30-04-2025,The item arrived broken. This is unacceptable!,Damaged Product
-223,60980b94,Stacey Walker,8931734206,30-04-2025,Your delivery boy was very rude.,Rude Staff
+223,60980b94,Stacey Walker,8931734206,30-04-2025,Got it after the expected date,Late Delivery
 224,263553ba,Jacob Valentine,086-771-3334,30-04-2025,I was charged more than what was mentioned.,Overcharged
 225,2154be4a,Daniel Lewis,362-620-4439x7359,30-04-2025,I placed the order two days ago and it's still not here!,Late Delivery
 226,7808a004,Frank Steele,+1-366-941-1800x53759,30-04-2025,I was charged more than what was mentioned.,Overcharged
@@ -237,22 +237,22 @@ Sr. no.,Message_ID,Customer_Name,Phone_Number,Date,Complaint_Text,Category
 236,6d7fd4e2,Anthony Jones,8186617945,30-04-2025,I received the wrong product. Please check your dispatch.,Wrong Item
 237,80e1be4d,Patrick Ford,(601)645-9779,30-04-2025,The item arrived broken. This is unacceptable!,Damaged Product
 238,df107434,Christine Miller,+1-416-800-6102x776,30-04-2025,I was charged more than what was mentioned.,Overcharged
-239,b9d5546c,Mr. William Ward,+1-641-220-3103x03723,30-04-2025,Your delivery boy was very rude.,Rude Staff
+239,b9d5546c,Mr. William Ward,+1-641-220-3103x03723,30-04-2025,There was a delay in delivery,Late Delivery
 240,ca3e3238,Angelica Carrillo,(760)122-7770,30-04-2025,I was charged more than what was mentioned.,Overcharged
 241,4b7a123e,Sandra Williams,1667998407,30-04-2025,I was charged more than what was mentioned.,Overcharged
-242,b98050a6,Meghan Velasquez,308.069.5814x6717,30-04-2025,I was charged more than what was mentioned.,Overcharged
+242,b98050a6,Meghan Velasquez,308.069.5814x6717,30-04-2025,There was a delay in delivery,Late Delivery
 243,72c573e9,Alisha Roberts,757.383.9597,30-04-2025,Your delivery boy was very rude.,Rude Staff
-244,b61d56f5,Jason Pugh,+1-572-934-1722x3297,30-04-2025,I was charged more than what was mentioned.,Overcharged
+244,b61d56f5,Jason Pugh,+1-572-934-1722x3297,30-04-2025,There was a delay in delivery,Late Delivery
 245,fe678797,David Hawkins DVM,(452)280-1561x931,30-04-2025,The item arrived broken. This is unacceptable!,Damaged Product
 246,fe60afde,Henry Williams,-9048,30-04-2025,I�ve been texting for help and no one responds.,No Response
 247,f287b989,Justin Romero,(135)247-8712,30-04-2025,I received the wrong product. Please check your dispatch.,Wrong Item
-248,2.35E+76,Dakota Montes,001-037-548-2145x65328,30-04-2025,I�ve been texting for help and no one responds.,No Response
+248,2.35E+76,Dakota Montes,001-037-548-2145x65328,30-04-2025,delay for delivery,Late Delivery
 249,cd40b648,Thomas Villanueva,507.208.1155x62606,30-04-2025,I�ve been texting for help and no one responds.,No Response
 250,26a4cbef,Amy Welch,001-846-684-5504x892,30-04-2025,Your delivery boy was very rude.,Rude Staff
 251,e3386d52,Rachel Pearson,001-563-410-8562x884,30-04-2025,I was charged more than what was mentioned.,Overcharged
 252,4fefc63f,Nicole Moore,8943468105,30-04-2025,Your delivery boy was very rude.,Rude Staff
 253,1fb235c4,Matthew Martinez,907-539-9893x5449,30-04-2025,I was charged more than what was mentioned.,Overcharged
-254,bccd9b8c,Garrett Aguilar,001-571-266-1106x27371,30-04-2025,The item arrived broken. This is unacceptable!,Damaged Product
+254,bccd9b8c,Garrett Aguilar,001-571-266-1106x27371,30-04-2025,Got it after the expected date,Late Delivery
 255,9696dc6c,Peggy Wiggins,001-767-762-2827,30-04-2025,I received the wrong product. Please check your dispatch.,Wrong Item
 256,83601fb5,Bailey Lewis,028.519.6115x9408,30-04-2025,I placed the order two days ago and it's still not here!,Late Delivery
 257,fdb37e45,Edward Johnson,(296)044-3270,30-04-2025,I�ve been texting for help and no one responds.,No Response
@@ -263,13 +263,13 @@ Sr. no.,Message_ID,Customer_Name,Phone_Number,Date,Complaint_Text,Category
 262,5346405c,Micheal Evans,526-546-1033,30-04-2025,I placed the order two days ago and it's still not here!,Late Delivery
 263,823500f9,Janice Wilson,5786170630,30-04-2025,Your delivery boy was very rude.,Rude Staff
 264,acd32f62,Phillip Pearson,(496)718-3258,30-04-2025,The item arrived broken. This is unacceptable!,Damaged Product
-265,f3de6bc2,Thomas Hayes,7942007494,30-04-2025,I received the wrong product. Please check your dispatch.,Wrong Item
+265,f3de6bc2,Thomas Hayes,7942007494,30-04-2025,late delivery,Late Delivery
 266,a1d8507b,Ryan Campbell,(891)416-1284,30-04-2025,I received the wrong product. Please check your dispatch.,Wrong Item
 267,f5194ab9,Stacey Dougherty,+1-474-355-3795x0209,30-04-2025,I received the wrong product. Please check your dispatch.,Wrong Item
 268,ac367cb9,Justin Horton,681.180.7156x9562,30-04-2025,I�ve been texting for help and no one responds.,No Response
 269,efadf069,Adam Paul,001-453-194-3375x04793,30-04-2025,The item arrived broken. This is unacceptable!,Damaged Product
 270,a3708c7f,Sergio Carroll,283.999.2192x1249,30-04-2025,I was charged more than what was mentioned.,Overcharged
-271,c841b6a8,Ryan Johnson,001-894-870-6056x641,30-04-2025,I�ve been texting for help and no one responds.,No Response
+271,c841b6a8,Ryan Johnson,001-894-870-6056x641,30-04-2025,delay for delivery,Late Delivery
 272,846af2e6,Stacey Walker,687-506-3519x036,30-04-2025,I received the wrong product. Please check your dispatch.,Wrong Item
 273,2a1b76e3,Arthur Garrett,7609543173,30-04-2025,I�ve been texting for help and no one responds.,No Response
 274,55660d8e,Cynthia Jones,+1-971-791-1006x512,30-04-2025,I placed the order two days ago and it's still not here!,Late Delivery
@@ -297,7 +297,7 @@ Sr. no.,Message_ID,Customer_Name,Phone_Number,Date,Complaint_Text,Category
 296,0b2d983a,Seth Hill,+1-841-376-8151x1856,30-04-2025,The item arrived broken. This is unacceptable!,Damaged Product
 297,818d72af,Alexander Fowler,+1-765-636-0041x25777,30-04-2025,I received the wrong product. Please check your dispatch.,Wrong Item
 298,3e06f427,Jessica Ruiz,220-912-4186x210,30-04-2025,I was charged more than what was mentioned.,Overcharged
-299,2d8d7db8,Andrew Leonard,708.164.7090,30-04-2025,I�ve been texting for help and no one responds.,No Response
+299,2d8d7db8,Andrew Leonard,708.164.7090,30-04-2025,delay for delivery,Late Delivery
 300,33a51ac6,Jade Allen,060-053-1312,30-04-2025,I�ve been texting for help and no one responds.,No Response
 301,1b912adc,Erica Sims,+1-386-613-3155x206,30-04-2025,The item arrived broken. This is unacceptable!,Damaged Product
 302,3677f5b4,Austin Briggs,+1-950-136-4971x8924,30-04-2025,I�ve been texting for help and no one responds.,No Response
@@ -316,12 +316,12 @@ Sr. no.,Message_ID,Customer_Name,Phone_Number,Date,Complaint_Text,Category
 315,2ec75a83,Cheryl Bird,(791)214-1614x15093,30-04-2025,I was charged more than what was mentioned.,Overcharged
 316,19cea0c3,Derek Moses,+1-901-380-6984x77596,30-04-2025,I�ve been texting for help and no one responds.,No Response
 317,57d3ec63,Dr. Teresa Ortega MD,5510762091,30-04-2025,I�ve been texting for help and no one responds.,No Response
-318,c05e5ade,Isabella Montgomery,+1-786-305-0505x73976,30-04-2025,I placed the order two days ago and it's still not here!,Late Delivery
+318,c05e5ade,Isabella Montgomery,+1-786-305-0505x73976,30-04-2025,Got it after the expected date,Late Delivery
 319,6d8bebc3,Teresa Alvarez,+1-164-932-8980x27148,30-04-2025,Your delivery boy was very rude.,Rude Staff
-320,f47e3ca0,Matthew Allen,211.602.5643,30-04-2025,The item arrived broken. This is unacceptable!,Damaged Product
+320,f47e3ca0,Matthew Allen,211.602.5643,30-04-2025,delay for delivery,Late Delivery
 321,e5c345fc,Mary Livingston,+1-715-399-1566x8633,30-04-2025,The item arrived broken. This is unacceptable!,Damaged Product
-322,1c8390ba,Patrick Pineda,001-195-256-9040x9836,30-04-2025,I received the wrong product. Please check your dispatch.,Wrong Item
-323,cc2a261d,Rebecca Meyer,+1-931-608-7524x377,30-04-2025,Your delivery boy was very rude.,Rude Staff
+322,1c8390ba,Patrick Pineda,001-195-256-9040x9836,30-04-2025,Got it after the expected date,Late Delivery
+323,cc2a261d,Rebecca Meyer,+1-931-608-7524x377,30-04-2025,late delivery,Late Delivery
 324,bf3f51d5,Rebecca Warner,+1-548-149-7374x605,30-04-2025,I placed the order two days ago and it's still not here!,Late Delivery
 325,d91b1cb6,Rita Graves,2764208656,30-04-2025,I was charged more than what was mentioned.,Overcharged
 326,643058d9,Joseph Campbell,001-386-125-9047x292,30-04-2025,I placed the order two days ago and it's still not here!,Late Delivery
@@ -333,7 +333,7 @@ Sr. no.,Message_ID,Customer_Name,Phone_Number,Date,Complaint_Text,Category
 332,6c4d1774,Mary Wright,8487297585,30-04-2025,I�ve been texting for help and no one responds.,No Response
 333,b01c337e,Robert Young,243.298.3954,30-04-2025,I placed the order two days ago and it's still not here!,Late Delivery
 334,13093c17,Debbie Santos,(671)462-8314,30-04-2025,I received the wrong product. Please check your dispatch.,Wrong Item
-335,b6e5dd9a,Matthew Hoover,+1-262-566-0931x418,30-04-2025,Your delivery boy was very rude.,Rude Staff
+335,b6e5dd9a,Matthew Hoover,+1-262-566-0931x418,30-04-2025,delay for delivery,Late Delivery
 336,10e2b676,Brandon Blankenship,001-423-401-6361x12849,30-04-2025,I�ve been texting for help and no one responds.,No Response
 337,b3510ddc,Diane Nelson,025-625-8896,30-04-2025,I was charged more than what was mentioned.,Overcharged
 338,026e6d11,Michelle Sandoval,(694)053-9672,30-04-2025,Your delivery boy was very rude.,Rude Staff
@@ -345,15 +345,15 @@ Sr. no.,Message_ID,Customer_Name,Phone_Number,Date,Complaint_Text,Category
 344,19f145cc,Craig Rice,(617)024-3765,30-04-2025,I was charged more than what was mentioned.,Overcharged
 345,2ea37b78,Debra Mayo,+1-722-560-5313x40266,30-04-2025,I placed the order two days ago and it's still not here!,Late Delivery
 346,aa8c662d,John Ortega,167-872-5686x211,30-04-2025,I received the wrong product. Please check your dispatch.,Wrong Item
-347,80000fac,Michael Williams,690-674-4716x39282,30-04-2025,I received the wrong product. Please check your dispatch.,Wrong Item
+347,80000fac,Michael Williams,690-674-4716x39282,30-04-2025,delay for delivery,Late Delivery
 348,dd3a0936,Michael Estrada,(371)892-3923x12604,30-04-2025,I�ve been texting for help and no one responds.,No Response
 349,0485742a,Ann Williams,(843)356-7086x04145,30-04-2025,I was charged more than what was mentioned.,Overcharged
 350,6b06e92f,Steven White,534749162,30-04-2025,The item arrived broken. This is unacceptable!,Damaged Product
-351,559383cf,Brent Smith,-10386,30-04-2025,Your delivery boy was very rude.,Rude Staff
+351,559383cf,Brent Smith,-10386,30-04-2025,delay for delivery,Late Delivery
 352,e31f2212,Mark Guzman,9337118954,30-04-2025,Your delivery boy was very rude.,Rude Staff
 353,88973a4a,Amanda Lee,-7231,30-04-2025,I received the wrong product. Please check your dispatch.,Wrong Item
 354,ca77736e,Kyle Horton,(409)036-7881,30-04-2025,I was charged more than what was mentioned.,Overcharged
-355,6257ae9c,Jeanette Lawson,202.939.0878,30-04-2025,I was charged more than what was mentioned.,Overcharged
+355,6257ae9c,Jeanette Lawson,202.939.0878,30-04-2025,late delivery,Late Delivery
 356,3867f62d,Derrick Wilson,083.402.4240,30-04-2025,I placed the order two days ago and it's still not here!,Late Delivery
 357,d2cb03eb,Brian Wong,+1-955-184-2694x5005,30-04-2025,Your delivery boy was very rude.,Rude Staff
 358,2d3e854b,Alan Sandoval,001-916-498-3735x43962,30-04-2025,The item arrived broken. This is unacceptable!,Damaged Product
@@ -372,7 +372,7 @@ Sr. no.,Message_ID,Customer_Name,Phone_Number,Date,Complaint_Text,Category
 371,f2bffc3f,Kristen Gallegos,001-843-624-1862,30-04-2025,I was charged more than what was mentioned.,Overcharged
 372,380a402d,Rodney Daugherty,+1-177-566-2056x341,30-04-2025,The item arrived broken. This is unacceptable!,Damaged Product
 373,c75f41dc,Alyssa Campbell,-4846,30-04-2025,I was charged more than what was mentioned.,Overcharged
-374,91f390f4,Kristy Tyler,514054683,30-04-2025,I�ve been texting for help and no one responds.,No Response
+374,91f390f4,Kristy Tyler,514054683,30-04-2025,late delivery,No Response
 375,5b182716,Michele Davis,(818)209-6790x42271,30-04-2025,I�ve been texting for help and no one responds.,No Response
 376,3b482d28,Rhonda Pena,001-288-985-7254x59606,30-04-2025,The item arrived broken. This is unacceptable!,Damaged Product
 377,9b5c4b58,Christian Burton,102.481.7175x2421,30-04-2025,I�ve been texting for help and no one responds.,No Response
@@ -385,7 +385,7 @@ Sr. no.,Message_ID,Customer_Name,Phone_Number,Date,Complaint_Text,Category
 384,2922ecb0,Jessica Gaines,001-608-931-9925,30-04-2025,The item arrived broken. This is unacceptable!,Damaged Product
 385,756aae2d,Kathryn Stewart,+1-648-072-7910x33682,30-04-2025,I�ve been texting for help and no one responds.,No Response
 386,35b30874,Valerie Ray,5504481776,30-04-2025,I received the wrong product. Please check your dispatch.,Wrong Item
-387,8adf1e46,William Rogers,(765)289-2866,30-04-2025,The item arrived broken. This is unacceptable!,Damaged Product
+387,8adf1e46,William Rogers,(765)289-2866,30-04-2025,delay for delivery,Damaged Product
 388,ae26f348,Douglas Oliver,111-096-1798,30-04-2025,The item arrived broken. This is unacceptable!,Damaged Product
 389,94cbb94e,Mary Christian,378.613.7157,30-04-2025,I received the wrong product. Please check your dispatch.,Wrong Item
 390,b42e8714,Jennifer Ayers,844.446.3060,30-04-2025,I�ve been texting for help and no one responds.,No Response
@@ -409,13 +409,13 @@ Sr. no.,Message_ID,Customer_Name,Phone_Number,Date,Complaint_Text,Category
 408,df748fb5,Matthew Foley,001-117-030-3763x715,30-04-2025,I�ve been texting for help and no one responds.,No Response
 409,8713b81f,Emily Blackburn,001-728-123-5679x836,30-04-2025,I�ve been texting for help and no one responds.,No Response
 410,2a08c526,Tiffany Ray,271-130-7240,30-04-2025,The item arrived broken. This is unacceptable!,Damaged Product
-411,5a19d7ab,Timothy Miller,(326)868-5074x51066,30-04-2025,I placed the order two days ago and it's still not here!,Late Delivery
+411,5a19d7ab,Timothy Miller,(326)868-5074x51066,30-04-2025,late delivery,Late Delivery
 412,2d389d1f,Kendra Snyder,(103)131-0094x31814,30-04-2025,I was charged more than what was mentioned.,Overcharged
 413,b7403274,James Robinson,001-473-235-4940x128,30-04-2025,I placed the order two days ago and it's still not here!,Late Delivery
 414,da41a15f,Cynthia Edwards,225-720-7650,30-04-2025,The item arrived broken. This is unacceptable!,Damaged Product
 415,13b4c4f6,Philip Smith,(790)737-1009x438,30-04-2025,I received the wrong product. Please check your dispatch.,Wrong Item
 416,c67736bc,Eric Fitzgerald,758.474.5705x458,30-04-2025,I placed the order 2 days ago and it's still not here!,Late Delivery
-417,af8f8cf0,Margaret Hernandez,(325)703-9653x13614,30-04-2025,I received the wrong product. Please check your dispatch.,Wrong Item
+417,af8f8cf0,Margaret Hernandez,(325)703-9653x13614,30-04-2025,late delivery,Late Delivery
 418,e9926bad,Tyler Rose,556-964-4309x859,30-04-2025,The item arrived broken. This is unacceptable!,Damaged Product
 419,9110c9fd,Rebecca Roberts,7272849824,30-04-2025,I was charged more than what was mentioned.,Overcharged
 420,4b73361f,Andrew Campbell,001-107-406-5004,30-04-2025,I received the wrong product. Please check your dispatch.,Wrong Item
@@ -424,7 +424,7 @@ Sr. no.,Message_ID,Customer_Name,Phone_Number,Date,Complaint_Text,Category
 423,8de58a88,Eric Evans,+1-782-661-2875x8575,30-04-2025,I was charged more than what was mentioned.,Overcharged
 424,6906b588,Thomas Johnson,001-612-943-9852x98940,30-04-2025,Your delivery boy was very rude.,Rude Staff
 425,1862029,Phillip Holmes,1041591497,30-04-2025,I�ve been texting for help and no one responds.,No Response
-426,bd8fa26f,Kayla Love,001-382-872-3244x079,30-04-2025,I was charged more than what was mentioned.,Overcharged
+426,bd8fa26f,Kayla Love,001-382-872-3244x079,30-04-2025,delay for delivery,Late Delivery
 427,272c7482,Barbara Davis,170.876.0146,30-04-2025,I was charged more than what was mentioned.,Overcharged
 428,3c243b45,Kimberly Underwood,+1-791-620-2232x88377,30-04-2025,I placed the order 2 days ago and it's still not here!,Late Delivery
 429,f58703c5,Holly Hill,(176)620-4719x6094,30-04-2025,I was charged more than what was mentioned.,Overcharged
@@ -447,7 +447,7 @@ Sr. no.,Message_ID,Customer_Name,Phone_Number,Date,Complaint_Text,Category
 446,15a15a52,Scott Cruz,6670336268,30-04-2025,I placed the order two days ago and it's still not here!,Late Delivery
 447,8aa2f756,Teresa Kent,001-549-305-9660x18648,30-04-2025,I�ve been texting for help and no one responds.,No Response
 448,917c4f11,Debbie Horne,320.441.3845x960,30-04-2025,I received the wrong product. Please check your dispatch.,Wrong Item
-449,a8c34b25,Matthew Ingram,1495427707,30-04-2025,I received the wrong product. Please check your dispatch.,Wrong Item
+449,a8c34b25,Matthew Ingram,1495427707,30-04-2025,delay for delivery,Late Delivery
 450,5bd55037,Dr. Daniel Brown,498-517-2444,30-04-2025,I placed the order 2 days ago and it's still not here!,Late Delivery
 451,2cabb9ad,Luke Williams,028-795-0830,30-04-2025,I�ve been texting for help and no one responds.,No Response
 452,adaad2f9,Sarah Fernandez,9351187181,30-04-2025,I placed the order 2 days ago and it's still not here!,Late Delivery
@@ -455,7 +455,7 @@ Sr. no.,Message_ID,Customer_Name,Phone_Number,Date,Complaint_Text,Category
 454,e9707c9e,Ashley Lewis,889-536-9026x11398,30-04-2025,The item arrived broken. This is unacceptable!,Damaged Product
 455,6b074c79,Barbara Johns,9788754394,30-04-2025,Your delivery boy was very rude.,Rude Staff
 456,c4844743,Crystal Edwards,376-515-8815,30-04-2025,I was charged more than what was mentioned.,Overcharged
-457,72ef917e,Crystal Carey,(836)929-4455,30-04-2025,Your delivery boy was very rude.,Rude Staff
+457,72ef917e,Crystal Carey,(836)929-4455,30-04-2025,Got it after the expected date,Late Delivery
 458,81496136,Ms. Mackenzie Barton,(702)164-8712,30-04-2025,I received the wrong product. Please check your dispatch.,Wrong Item
 459,b0a6e457,Benjamin Robertson,665.268.3415x59991,30-04-2025,Your delivery boy was very rude.,Rude Staff
 460,5ade80d4,Susan Mccoy,001-647-229-8120x9957,30-04-2025,I was charged more than what was mentioned.,Overcharged
@@ -466,7 +466,7 @@ Sr. no.,Message_ID,Customer_Name,Phone_Number,Date,Complaint_Text,Category
 465,cb170945,Benjamin Moore,478-150-6185x38003,30-04-2025,The item arrived broken. This is unacceptable!,Damaged Product
 466,f17316d5,Craig Harrison,274.231.8306x1789,30-04-2025,The item arrived broken. This is unacceptable!,Damaged Product
 467,6b0c7da5,Lisa Welch,578.243.4776,30-04-2025,The item arrived broken. This is unacceptable!,Damaged Product
-468,4ba0768a,Brian Ibarra,001-467-536-1275x15627,30-04-2025,I placed the order 2 days ago and it's still not here!,Late Delivery
+468,4ba0768a,Brian Ibarra,001-467-536-1275x15627,30-04-2025,delay for delivery,Late Delivery
 469,3c1fc9aa,Derek Lewis,(085)456-6766x40473,30-04-2025,I was charged more than what was mentioned.,Overcharged
 470,4efa8dc3,Daniel Hutchinson,-11070,30-04-2025,I received the wrong product. Please check your dispatch.,Wrong Item
 471,5.55E+15,Pamela Tran,+1-083-583-2863x4255,30-04-2025,I was charged more than what was mentioned.,Overcharged
@@ -485,7 +485,7 @@ Sr. no.,Message_ID,Customer_Name,Phone_Number,Date,Complaint_Text,Category
 484,13e9e070,Amy Hunt,675.481.3866x675,30-04-2025,I placed the order two days ago and it's still not here!,Late Delivery
 485,87db0168,Larry Lewis,(426)877-4186,30-04-2025,The item arrived broken. This is unacceptable!,Damaged Product
 486,ddbb3fa4,John Santiago,001-639-836-5203x7583,30-04-2025,I�ve been texting for help and no one responds.,No Response
-487,18177e4a,Sydney Shaw,9404760440,30-04-2025,I placed the order 2 days ago and it's still not here!,Late Delivery
+487,18177e4a,Sydney Shaw,9404760440,30-04-2025,delay for delivery,Late Delivery
 488,b7d0c829,Yolanda Chen,278.105.0922x2161,30-04-2025,I received the wrong product. Please check your dispatch.,Wrong Item
 489,0ff48fe8,Scott Ramirez,905.529.5806,30-04-2025,Your delivery boy was very rude.,Rude Staff
 490,0fbd6062,Roger Mason,001-412-704-9386x2044,30-04-2025,The item arrived broken. This is unacceptable!,Damaged Product
